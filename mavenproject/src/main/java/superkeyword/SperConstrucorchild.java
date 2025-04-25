@@ -8,8 +8,7 @@ public class SperConstrucorchild extends ConstructorSuper{
 	}
 	public SperConstrucorchild()
 	{
-		super(2,3
-				)
+		super(2,3);
 		
 		System.out.println("sum");
 	}
